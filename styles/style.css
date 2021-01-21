@@ -1,0 +1,144 @@
+.Bgimg{
+    
+    background-image: url('../images/copping.jpg');
+    background-size: 100% 100%;
+    background-attachment: scroll;
+    width: 100%;
+    height: 800px;
+    
+}
+.hearderset{
+    padding-top: 175px;
+    box-sizing: border-box;
+    
+}
+
+.hearderset h2{
+    font-size: 60px;
+    text-align: left;
+    font-weight: bold;
+    font-style: unset;
+    color: wheat;
+}
+.hearderset h3{
+    font-size: 60px;
+    text-align: left;
+    font-weight: bold;
+    font-style: unset;
+    color: wheat;
+}
+
+.hearderset h1{
+    font-size: 45px;
+    color: wheat;
+}
+
+.bgimage-container{
+    margin-left: 0px;
+    margin-right: 0px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.ourservices{
+    margin-left: 0px;
+    margin-right: 0px;
+    background-image: url(../images/bg2.jpg);
+    position: relative;
+    bottom: 32px;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    background-attachment:scroll;
+    
+}
+
+.ourservices h1{
+    font-size: 50px;
+    font-weight: bold;
+    position: relative;
+    top: 70px;
+
+}
+
+.ourservices h2{
+    font-size: 37px;
+    position: relative;
+    top: 70px;
+}
+
+.rowsetting{
+    margin: 80px 80px;
+}
+
+
+.ourservices h3{
+    font-size: 40px;
+}
+
+.ourservices h4{
+    font-size: 40px;
+}
+.ourservices h5{
+    font-size: 30px;
+}
+.ourservices p{
+    font-size: 22px;
+    font-family: 'Courgette', cursive;
+    font-weight: bold;
+}
+
+.c1{
+    position: relative;
+    left: 175px;
+    top: 250px;
+}
+
+.c2{
+    position: relative;
+    left: 175px;
+    top: 250px;
+}
+.introduction{
+    background-image: url(../images/bg3.jpg);
+    position: relative;
+    bottom: 115px;
+}
+
+.little{
+    background-image: url(../images/bg3.jpg);
+    height: 450px;
+}
+.introduction h1{
+    color: white;
+    font-size: 62px;
+    font-weight: bold;
+    position: relative;
+    top: 100px;
+    
+}
+.introduction p{
+    color: white;
+    font-size: 42px;
+    position: relative;
+    top: 120px;
+}
+.little h1{
+    font-size: 42px;
+    position: relative;
+    top: 300px;
+}
+.p1{
+    position: relative;
+    top: 200px;
+}
+.p2{
+    position: relative;
+    top: 200px;
+}
+.p3{
+    position: relative;
+    top: 200px;
+}
